@@ -148,7 +148,7 @@ using a MobileNetV2 network (ImageNet weights, fine-tuned with PyTorch).
 **Data.** IQ-OTH/NCCD lung cancer dataset (Alyasriy and Al-Huseiny, Mendeley Data,
 doi:10.17632/bhmdr45bh2.4, CC BY 4.0). Only the Benign and Malignant classes are used.
 
-**Hosting.** Streamlit Community Cloud runs this app in a container. The code and model are
+**Hosting.** The app is deployed in a cloud container. The code and model are
 stored in a public GitHub repository.
 
 **Team.** Aman Kumar (BTECH/10866/23), Mayank Kumar Agarwal (BTECH/10881/23),

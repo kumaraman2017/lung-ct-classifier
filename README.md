@@ -1,7 +1,7 @@
 # Lung CT Classifier (Benign vs Malignant)
 
 A Streamlit web app that classifies a lung CT slice as **Benign** or **Malignant** with a
-MobileNetV2 model fine-tuned in PyTorch. It is deployed on **Streamlit Community Cloud**.
+MobileNetV2 model fine-tuned in PyTorch.
 
 > **For education only.** This is a student project, not a medical device. Do not use it for diagnosis.
 
