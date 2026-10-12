@@ -5,7 +5,7 @@ MobileNetV2 model fine-tuned in PyTorch. It is deployed on **Streamlit Community
 
 > **For education only.** This is a student project, not a medical device. Do not use it for diagnosis.
 
-**Live app:** [https://lung-ct-classifier.streamlit.app](https://lung-ct-classifier.streamlit.app)
+**Live app:** [https://lung-ct-classifier-ovxxsy7qdputbfhspwzmwk.streamlit.app/](https://lung-ct-classifier-ovxxsy7qdputbfhspwzmwk.streamlit.app/)
 
 ## Files
 
